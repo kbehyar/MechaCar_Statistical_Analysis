@@ -34,7 +34,7 @@ With the P-Value of our model being "5.08e-08" and our significance level of 0.0
 
 Our Multiple R-squared: 0.7149 means that %71.49 of the variance in our MPG prediction can be explained by our model. our p-value: 5.35e-11 and significance level of 0.05, this model can efficiently predict the MPG
 
-## Deliverable 2: T-Tests on Suspension Coils
+## Deliverable 2: Summary Statistics on Suspension Coils:
 
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
@@ -46,6 +46,6 @@ Our overall Summary of all the manufacturing lots indicates that with a Variance
 By analysing the variances of each individual manufactoring lots, it is evident that Lot #1 and #2 with variances of 0.9795918 and 7.4693878 respectively, do not exceed the 100 PSI variance requirments. But Lot #3 with a variance of 170.2861224 exceeds the 100 PSI variance requirment.
 ![]()
 
-
+## Deliverable 3: T-Tests on Suspension Coils
 
 ## Study Design: MechaCar vs Competition
