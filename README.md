@@ -62,3 +62,21 @@ According the the T-test conducted on each lot separately
 ![](https://github.com/kbehyar/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%203-3.PNG)
 
 ## Study Design: MechaCar vs Competition
+
+- What metric or metrics are you going to test?
+
+
+
+- What is the null hypothesis or alternative hypothesis?
+
+
+
+- What statistical test would you use to test the hypothesis? And why?
+
+
+
+- What data is needed to run the statistical test?
+
+
+
+
