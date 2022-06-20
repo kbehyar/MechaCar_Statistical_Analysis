@@ -65,18 +65,20 @@ According the the T-test conducted on each lot separately. Lot 3, the calculated
 
 - What metric or metrics are you going to test?
 
-
+Some of the metrics i would consider testing include: city/highway fuel efficiency, Manufacturing costs, Manufacturing time, Defective Units/Recall rates, Safety rationgs, Customer satisfaction and Scrap rate (End life salvage)
 
 - What is the null hypothesis or alternative hypothesis?
 
+Null Hypothesis(H0): MechaCar vehicles having higher sales than other car manufacturers 
 
+Alternative Hypothesis(Ha): MechaCar vehicles not having higher sales than other car manufacturers 
 
 - What statistical test would you use to test the hypothesis? And why?
 
-
+I would conduct a Chi-squared test for my catagorical variables and a multiple linear regression for my Numerical variables. 
 
 - What data is needed to run the statistical test?
 
-
+I would start gathering data on costs associated with production, manufactoring time, ratings on safety/satisfaction/performance 
 
 
