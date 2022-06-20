@@ -48,4 +48,10 @@ By analysing the variances of each individual manufactoring lots, it is evident 
 
 ## Deliverable 3: T-Tests on Suspension Coils
 
+The T-Test for the overall manufacturing lots shows 1498.78 with a P-Value of 0.06028. This evidence shows there is not enough evidence to reject the null hypothesis which indicates that the mean of all the lots is not different than the assumed 1500 mean.
+![]()
+
+According the the T-test conducted on each lot separately
+![]()
+
 ## Study Design: MechaCar vs Competition
