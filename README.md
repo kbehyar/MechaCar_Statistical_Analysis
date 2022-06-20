@@ -57,7 +57,7 @@ The T-Test for the overall manufacturing lots shows 1498.78 with a P-Value of 0.
 
 ![](https://github.com/kbehyar/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%203-1.PNG)
 
-According the the T-test conducted on each lot separately
+According the the T-test conducted on each lot separately. Lot 3, the calculated p-value is 0.04 which is lower than 0.05, there is sufficient statistical evidence that our null hypothesis is not true, and therefore we would reject our null hypothesis.
 
 ![](https://github.com/kbehyar/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%203-3.PNG)
 
