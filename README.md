@@ -42,9 +42,11 @@ Our Multiple R-squared: 0.7149 means that %71.49 of the variance in our MPG pred
 ![](https://github.com/kbehyar/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%202-3.PNG)
 
 Our overall Summary of all the manufacturing lots indicates that with a Variance of 62.29356 the design specifications for the MechaCar suspension coils does not exceed 100 PSI(pounds per square inch) requirment.
+
 ![](https://github.com/kbehyar/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%202.PNG)
 
 By analysing the variances of each individual manufactoring lots, it is evident that Lot #1 and #2 with variances of 0.9795918 and 7.4693878 respectively, do not exceed the 100 PSI variance requirments. But Lot #3 with a variance of 170.2861224 exceeds the 100 PSI variance requirment.
+
 ![](https://github.com/kbehyar/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%202-2.PNG)
 
 ## Deliverable 3: T-Tests on Suspension Coils
