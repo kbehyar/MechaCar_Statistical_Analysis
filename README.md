@@ -50,12 +50,15 @@ By analysing the variances of each individual manufactoring lots, it is evident 
 ![](https://github.com/kbehyar/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%202-2.PNG)
 
 ## Deliverable 3: T-Tests on Suspension Coils
+
 ![](https://github.com/kbehyar/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%203.PNG)
 
 The T-Test for the overall manufacturing lots shows 1498.78 with a P-Value of 0.06028. This evidence shows there is not enough evidence to reject the null hypothesis which indicates that the mean of all the lots is not different than the assumed 1500 mean.
+
 ![](https://github.com/kbehyar/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%203-1.PNG)
 
 According the the T-test conducted on each lot separately
+
 ![](https://github.com/kbehyar/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%203-3.PNG)
 
 ## Study Design: MechaCar vs Competition
