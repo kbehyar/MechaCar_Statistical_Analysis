@@ -18,6 +18,7 @@ In this challenge, we will:
 For this analysis i designed a linear model that predicts the MPG (Mile Per Gallon) of MechaCar prototypes using several variables (vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance)
 
 Below are my findings based on the analysis:
+
 ![](https://github.com/kbehyar/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%201.PNG)
 ![](https://github.com/kbehyar/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%201-1.PNG)
 ![](https://github.com/kbehyar/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%201-2.PNG)
